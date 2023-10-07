@@ -1,0 +1,14 @@
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\obj\Debug\net7.0\Oop.Lab2.TriangleCone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\obj\Debug\net7.0\Oop.Lab2.TriangleCone.AssemblyInfoInputs.cache
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\obj\Debug\net7.0\Oop.Lab2.TriangleCone.AssemblyInfo.cs
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\obj\Debug\net7.0\Oop.Lab2.TriangleCone.csproj.CoreCompileInputs.cache
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\bin\Debug\net7.0\Oop.Lab2.TriangleCone.exe
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\bin\Debug\net7.0\Oop.Lab2.TriangleCone.deps.json
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\bin\Debug\net7.0\Oop.Lab2.TriangleCone.runtimeconfig.json
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\bin\Debug\net7.0\Oop.Lab2.TriangleCone.dll
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\bin\Debug\net7.0\Oop.Lab2.TriangleCone.pdb
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\obj\Debug\net7.0\Oop.Lab2.TriangleCone.dll
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\obj\Debug\net7.0\refint\Oop.Lab2.TriangleCone.dll
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\obj\Debug\net7.0\Oop.Lab2.TriangleCone.pdb
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\obj\Debug\net7.0\Oop.Lab2.TriangleCone.genruntimeconfig.cache
+C:\Users\60612_rfa\RiderProjects\Oop.Lab2.TriangleCone\Oop.Lab2.TriangleCone\obj\Debug\net7.0\ref\Oop.Lab2.TriangleCone.dll
